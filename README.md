@@ -10,6 +10,6 @@ Collaborated with the team to assess and improve water system conditions across 
 - Recommended actionable strategies to enhance water condition improvement based on data-driven insights.
 
 ### 🛠️ Tools & Technologies
-- **Power BI, Exce, SQL**
+- **Power BI, Excel, SQL**
 
 > 📈 *This project highlights my ability to work with complex datasets and derive real-world impact through data analysis and visualization.*
